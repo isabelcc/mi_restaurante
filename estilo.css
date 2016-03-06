@@ -1,0 +1,23 @@
+
+{
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	box-shadow:5px 5px 15px magenta;
+	text-align:center;
+	background:green;
+	color:pink;
+	border-radius:10px;
+	font-size: 20px;
+}
+article
+{
+	margin:0 auto;
+	text-align: justify;
+	width:89%;
+	color:gold;
+}
